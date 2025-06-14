@@ -21,9 +21,9 @@
 - **Passive system** that detects attacks
 -  Not able to stop attacks
 - Analyzes copy of traffic using
-       - Signature-based (Known patterns)
-       - Anomaly-based (Unusual behaviour)
-       - Policy-based (Custom rules)
+       - **Signature-based** (Known patterns)
+       - **Anomaly-based** (Unusual behaviour)
+       - **Policy-based** (Custom rules)
 - **Host-based IDS (HIDS)**: Deployed on individual devices
 
   ---
