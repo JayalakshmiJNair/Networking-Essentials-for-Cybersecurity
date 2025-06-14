@@ -16,21 +16,21 @@
 
   ---
 
-  ### Intrusion Detection System (IDS)
+ ### Intrusion Detection System (IDS)
 
-  - **Passive system** that detects attacks
-  - Not able to stop attacks
-  - Analyzes copy of traffic using
+- **Passive system** that detects attacks
+-  Not able to stop attacks
+- Analyzes copy of traffic using
        - Signature-based (Known patterns)
        - Anomaly-based (Unusual behaviour)
        - Policy-based (Custom rules)
-  - **Host-based IDS (HIDS): Deployed on individual devices
+- **Host-based IDS (HIDS)**: Deployed on individual devices
 
   ---
 
-  ### Intrusion Prevention System (IPS)
+### Intrusion Prevention System (IPS)
 
-  - **Active system** that can detect and stop attack
-  - Sits inline in the network
-  - **Blocks, shut down, redirects or alerts** upon attack detection
-  - Best placed between firewall/router and internal network
+- **Active system** that can detect and stop attack
+- Sits inline in the network
+- **Blocks, shut down, redirects or alerts** upon attack detection
+- Best placed between firewall/router and internal network
