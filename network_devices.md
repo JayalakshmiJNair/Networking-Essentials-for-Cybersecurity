@@ -20,32 +20,32 @@ Network devices operate at different layers of the OSI model:
 
 ### Analog Modem
 
-● The word **Modem** is derived from the contraction of **modulator/demodulator**  
-● Converts **digital signals to analog** and vice versa  
-● Used to connect networks over phone lines (**POTS**) via **PSTN**  
+-● The word **Modem** is derived from the contraction of **modulator/demodulator**  
+-● Converts **digital signals to analog** and vice versa  
+-● Used to connect networks over phone lines (**POTS**) via **PSTN**  
      ○**POTS**: Plain Old Telephone Service  
      ○**PSTN**: Public Switched Telephone Network  
-● Allows only a **single network connection**
+-● Allows only a **single network connection**
 
 ### Hub
 
-● A basic network device that **copies signals to all ports**
-● Doesn't know where data is from or going.
-● Can have few or many ports
+-● A basic network device that **copies signals to all ports**
+-● Doesn't know where data is from or going.
+-● Can have few or many ports
 
 ## Layer 2 Devices
 
 ### Switch
 
-● Uses **ASIC** (Application Specific Integrated Circuit) for switching
-● Learns devices via **MAC addresses**
-● Connects local network devices
+-● Uses **ASIC** (Application Specific Integrated Circuit) for switching
+-● Learns devices via **MAC addresses**
+-● Connects local network devices
 
 ### WAP
 
-● Acts as a **bridge between wired and wireless segments**
-● Connects wireless devices using **802.11 standards**
-● Communicates only with local devices
+-● Acts as a **bridge between wired and wireless segments**
+-● Connects wireless devices using **802.11 standards**
+-● Communicates only with local devices
 
 
 ####  802.11 Standards (Wi-Fi Family)
@@ -62,16 +62,16 @@ Network devices operate at different layers of the OSI model:
 
 ### Router
 
-● Connects different networks using IP
-● Uses **software** for **decision-making**
-●  Finds best route using **routing tables**
-●  Communicates with local and non-local devices
+-● Connects different networks using IP
+-● Uses **software** for **decision-making**
+-●  Finds best route using **routing tables**
+-●  Communicates with local and non-local devices
 
 ### MLS
 
-● Works like a **Layer 2 switch + Layer 3 routing**
-●  Uses **ASIC for both switching and routing**
-●  Communicates with non-local devices
+-● Works like a **Layer 2 switch + Layer 3 routing**
+-●  Uses **ASIC for both switching and routing**
+-●  Communicates with non-local devices
 
 
 
