@@ -4,4 +4,4 @@
 -Host: A device with an IP address thet can send/receive data.
 -Protocol: Rules governing communication between devices.
 -Bandwidth: Data transfer rate of a network.
--Latency: Time taken for data to travel from source to destination.
+-Latency: Time taken for data to travel from source to destination. 
