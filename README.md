@@ -1,7 +1,7 @@
 # Networking Essentials for Cybersecurity
 
 This repository contains a concise and comprehensive guide to core computer networking concepts essential for cybersecurity professionals.
-
+ 
 ##  What's Included
 
 - OSI & TCP/IP models  
