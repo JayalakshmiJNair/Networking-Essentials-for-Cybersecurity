@@ -23,6 +23,6 @@ Network devices operate at different layers of the OSI model:
 ● The word **Modem** is derived from the contraction of **modulator/demodulator**  
 ● Converts **digital signals to analog** and vice versa  
 ● Used to connect networks over phone lines (**POTS**) via **PSTN**  
-    **POTS**: Plain Old Telephone Service  
-    **PSTN**: Public Switched Telephone Network  
+     ○**POTS**: Plain Old Telephone Service  
+     ○**PSTN**: Public Switched Telephone Network  
 ● Allows only a **single network connection**
