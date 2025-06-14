@@ -13,6 +13,7 @@ Network devices operate at different layers of the OSI model:
 - **Layer 3 Devices (Network Layer)**  
   - Router  
   - Multilayer Switch (MLS)
+    
 ##Layer 1 Devices
 -**Analog Modem**
 ●- Word **Modem** is derived from the contrection of **modulator/demodulator**.
